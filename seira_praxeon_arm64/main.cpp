@@ -51,5 +51,19 @@ int main(int argc,char** argv)
     }
     cout<<"\n";
     cout<<"final result set  " << rst <<"\n";
+
+
+    cout<<"using parenthesis \n";
+    long long int xri;
+    xri=(x/x);
+    long long int mri;
+    mri=(x*x);
+    long long int kri;
+    kri=x+xri-mri;
+    cout<<"of " << x << " + " << xri << " - " << mri <<" ::== " << kri <<"\n";
+    kri=x+mri-xri;
+    cout<<"of " << x << " + " << mri << " - " << xri <<" ::== " << kri <<"\n";
+    cout<<"similar to '/+*-' with -1 \n";
+
     return 0;
 }
