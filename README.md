@@ -2,7 +2,9 @@
 Same_Number_With_Different_Operation
 
 in a line of a number X with +-*/ 
+
 u will need to add some parenthesis "()"
+
 as of inital line "2785+2785*2785-2785/2785"
 
 2785+(2785*2785)-(2785/2785) = 7759009
