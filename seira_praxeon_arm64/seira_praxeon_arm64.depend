@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1762539718 source:/home/acherontas/codeblocks/seira_praxeon_arm64/main.cpp
-	<iostream>
-	<iomanip>
-	"math.h"
-
